@@ -1,0 +1,101 @@
+using System.IO;
+using System.Linq;
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+#if UNITY_STANDALONE
+
+#endif
+
+#if UNITY_WEBGL
+
+#endif
+
+#if UNITY_IOS
+
+#endif
+
+#if UNITY_ANDROID
+
+#endif
+
+#ROOTNAMESPACEBEGIN#
+public class #SCRIPTNAME# : MonoBehaviour
+{
+    /* ==================================================
+     * DEFS
+     * =================================================*/
+    /* Enums ----------------------------------*/
+
+    /* Classes---------------------------------*/
+
+    /* ==================================================
+     * VARS
+     * =================================================*/
+    /* Static---------------------------------*/
+
+    /* Public---------------------------------*/
+
+    /* Inspector------------------------------*/
+
+    /* Properties-----------------------------*/
+
+    /* Private--------------------------------*/
+
+    /* ==================================================
+     * METHODS
+     * =================================================*/
+    /* Mono ----------------------------------*/
+    /// <summary>
+    /// Called when the script instance is being loaded.
+    /// </summary>
+    private void Awake() { }
+
+    /// <summary>
+    /// Called before the first frame update.
+    /// </summary>
+    private void Start() { }
+
+    /// <summary>
+    /// Called once per frame.
+    /// </summary>
+    private void Update() { }
+
+    /// <summary>
+    /// Called at a fixed time step, suitable for physics calculations.
+    /// </summary>
+    private void FixedUpdate() { }
+
+    /// <summary>
+    /// Called when the object is enabled.
+    /// </summary>
+    private void OnEnable() { }
+
+    /// <summary>
+    /// Called when the object is disabled.
+    /// </summary>
+    private void OnDisable() { }
+
+    /// <summary>
+    /// Called when the object is being destroyed.
+    /// </summary>
+    private void OnDestroy() { }
+
+    /// <summary>
+    /// Called once per frame to handle GUI events.
+    /// </summary>
+    private void OnGUI() { }
+
+    /* Overrides and events-------------------*/
+
+    /* Static---------------------------------*/
+
+    /* Public --------------------------------*/
+
+    /* Protected------------------------------*/
+
+    /* Private--------------------------------*/
+
+}
+#ROOTNAMESPACEEND#
