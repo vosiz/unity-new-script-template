@@ -6,3 +6,5 @@ Navigate to your Unity version installation and then to script template folder (
 
 > [!IMPORTANT]
 > Folder structure may vary based on Unity version
+
+Replace desired file, edit as you want.
